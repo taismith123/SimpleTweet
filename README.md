@@ -47,7 +47,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src="http://g.recordit.co/Y3rAELy9w1.gif" width=200><br>
 
-<img src="http://g.recordit.co/vgSjCzXQdd.gif" width=200><br>
+<img src="http://g.recordit.co/k0xbSKBNIX.gif" width=200><br>
 
 ## Notes
 
